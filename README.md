@@ -59,3 +59,10 @@ Feedback Type: Type of feedback (e.g., Complaint, Suggestion, Appreciation).
 Resolution Status: Status of the feedback resolution (e.g., Resolved, Pending).
 Resolution Date: Date when the feedback was resolved.
 
+
+## Some Outputs of SQL Statement
+![1](https://github.com/Mr-Gabby/Banking-Data-Analysis-SQL/assets/101271219/ae5ecf9d-3803-4c6b-92dc-7c6b4f7dc425)
+![2](https://github.com/Mr-Gabby/Banking-Data-Analysis-SQL/assets/101271219/d5362f89-96ce-4103-ab80-9b563eab6022)
+
+
+
